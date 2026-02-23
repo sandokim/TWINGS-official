@@ -5,7 +5,7 @@
 ·
 <a href=""><strong>Geonhui Son</strong></a>
 ·
-<a href=""><strong>Park Subin</strong></a>
+<a href=""><strong>Deukhee Lee</strong></a>
 ·
 <a href=""><strong>Dosik Hwnag</strong></a>
 </p>
