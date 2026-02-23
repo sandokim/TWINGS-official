@@ -24,9 +24,12 @@
   </a>
 </p>
 
-<p align="center">
+<figure align="center">
   <img src="media/fig2.jpg" width="100%">
-</p>
+  <figcaption>
+    We introduce <strong>TWINGS</strong>, a framework that enhances 3D Gaussian Splatting (3DGS) by directly addressing point sparsity. We employ Thin Plate Splines (TPS), a smooth non-rigid deformation model that minimizes bending energy to estimate a globally coherent warp from control-point correspondences, to align backprojected points from estimated depth with triangulated 3D control points, yielding calibrated backprojected points. By sampling these calibrated points near the control points, <strong>TWINGS</strong> provides a fast and geometrically accurate initialization for 3DGS, ultimately improving structural detail preservation and color fidelity in reconstructed scenes.
+  </figcaption>
+</figure>
 
 
 Official implementation of the CVPR 2026 paper, 
