@@ -51,4 +51,4 @@ If you find our code or paper helps, please consider citing:
 
 
 ## Contact
-Hyeseong Kim (hyseongkim@postech.ac.kr)
+Hyeseong Kim (hyseongkim@yonsei.ac.kr)
