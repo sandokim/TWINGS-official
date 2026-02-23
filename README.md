@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="media/teaser.gif" width="100%">
+  <img src="media/fig2.jpg" width="100%">
 </p>
 
 
