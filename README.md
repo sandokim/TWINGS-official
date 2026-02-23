@@ -32,11 +32,10 @@
 </figure>
 
 
+## Code Coming Soon!
 Official implementation of the CVPR 2026 paper, 
 "TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting".
 
-
-## Code Coming Soon!
 ETA: 2026.05 - 2026.06
 
 ## Citation
