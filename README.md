@@ -40,6 +40,8 @@ ETA: 2026.05 - 2026.06
 
 ## Citation
 If you find our code or paper helps, please consider citing:
+
+<!--
 ````BibTeX
 @inproceedings{hyeseongkim2026twings,
     title = {TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
@@ -48,7 +50,8 @@ If you find our code or paper helps, please consider citing:
     year = {2026}
 }
 ````
-
+-->
+Citation information will be updated soon.
 
 ## Contact
 Hyeseong Kim (hyeseongkim@yonsei.ac.kr)
