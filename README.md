@@ -88,7 +88,7 @@ pip install ./submodules/diff-gaussian-rasterization
 pip install ./submodules/ml-depth-pro
 ```
 
-### Move the `checkpoints` folder of DepthPro to the parent directory of this project. "./checkpoints/depth_pro.pt",
+#### Move the `checkpoints` folder of DepthPro to the parent directory of this project. "./checkpoints/depth_pro.pt"
 Comment out `ToTensor()` in `submodules/ml-depth_pro/src/depth_pro.py`.
 ```python
 transform = Compose([
