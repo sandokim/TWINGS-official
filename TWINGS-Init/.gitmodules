@@ -1,0 +1,9 @@
+[submodule "submodules/LLFF"]
+	path = utils/submodules/LLFF
+	url = https://github.com/Fyusion/LLFF.git
+[submodule "submodules/mast3r"]
+	path = utils/submodules/mast3r
+	url = https://github.com/naver/mast3r
+[submodule "submodules/asmk"]
+	path = utils/submodules/asmk
+	url = https://github.com/jenicek/asmk

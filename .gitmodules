@@ -1,0 +1,19 @@
+[submodule "submodules/diff-gaussian-rasterization"]
+	path = submodules/diff-gaussian-rasterization
+	url = https://github.com/ashawkey/diff-gaussian-rasterization.git
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "submodules/ml-depth-pro"]
+	path = submodules/ml-depth-pro
+	url = https://github.com/apple/ml-depth-pro.git
+
+[submodule "TWINGS-Init/utils/submodules/LLFF"]
+	path = TWINGS-Init/utils/submodules/LLFF
+	url = https://github.com/Fyusion/LLFF.git
+[submodule "TWINGS-Init/utils/submodules/mast3r"]
+	path = TWINGS-Init/utils/submodules/mast3r
+	url = https://github.com/naver/mast3r
+[submodule "TWINGS-Init/utils/submodules/asmk"]
+	path = TWINGS-Init/utils/submodules/asmk
+	url = https://github.com/jenicek/asmk

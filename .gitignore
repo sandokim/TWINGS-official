@@ -1,0 +1,19 @@
+# Training / experiment outputs
+outputs/
+
+# Model weights (download separately)
+checkpoints/
+*.pt
+
+# Python / IDE
+__pycache__/
+*.pyc
+.vscode/
+
+# External OpenCV source/build trees
+TWINGS-Init/src/opencv/
+TWINGS-Init/src/opencv_contrib/
+TWINGS-Init/src/opencv/build/
+
+# Local backup submodules folders
+*.local/
