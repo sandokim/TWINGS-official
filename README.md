@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=googlechrome&logoColor=white" alt="Project Page">
   </a>
   <a href="https://arxiv.org/abs/2605.22069">
-    <img src="https://img.shields.io/badge/arXiv-2601.10200-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2605.22069-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="https://www.youtube.com/watch?v=j7Lb6k3dXCE&t=66s">
     <img src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Video">
