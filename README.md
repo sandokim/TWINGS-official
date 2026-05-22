@@ -16,7 +16,7 @@
   <a href="https://sandokim.github.io/twings/">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=googlechrome&logoColor=white" alt="Project Page">
   </a>
-  <a href="#">
+  <a href="https://arxiv.org/abs/2605.22069">
     <img src="https://img.shields.io/badge/arXiv-2601.10200-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="https://www.youtube.com/watch?v=j7Lb6k3dXCE&t=66s">
@@ -30,11 +30,6 @@
     We introduce <strong>TWINGS</strong>, a framework that enhances 3D Gaussian Splatting (3DGS) by directly addressing point sparsity. We employ Thin Plate Splines (TPS), a smooth non-rigid deformation model that minimizes bending energy to estimate a globally coherent warp from control-point correspondences, to align backprojected points from estimated depth with triangulated 3D control points, yielding calibrated backprojected points. By sampling these calibrated points near the control points, <strong>TWINGS</strong> provides a fast and geometrically accurate initialization for 3DGS, ultimately improving structural detail preservation and color fidelity in reconstructed scenes.
   </figcaption>
 </figure>
-
-
-## Official Implementation
-Official implementation of the CVPR 2026 paper,
-"TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting".
 
 ## Generate initial PCD with TWINGS-Init
 Please follow the instructions in `TWINGS-Init/README.md` to generate TWINGS-Init. The generated initial pcd will be saved as `{scene}/multiview_pcd/{n_views}/twings_init_pcd.ply`. Use it as `--pcd_path` when training in TWINGS, for example:
