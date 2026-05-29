@@ -135,14 +135,11 @@ If you find our code or paper helps, please consider citing:
 ```` -->
 
 ````BibTeX
-@misc{kim2026twingsplatesplineswarpaligned,
-      title={TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting}, 
-      author={Hyeseong Kim and Geonhui Son and Deukhee Lee and Dosik Hwang},
-      year={2026},
-      eprint={2605.22069},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2605.22069}, 
+@article{kim2026twings,
+  title={TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
+  author={Kim, Hyeseong and Son, Geonhui and Lee, Deukhee and Hwang, Dosik},
+  journal={arXiv preprint arXiv:2605.22069},
+  year={2026}
 }
 ````
 
