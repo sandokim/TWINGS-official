@@ -125,21 +125,14 @@ You can download TWINGS rendered results for LLFF, DTU, and MipNeRF-360, along w
 
 ## Citation
 If you find our code or paper helps, please consider citing:
-<!-- ````BibTeX
-@inproceedings{hyeseongkim2026twings,
-    title = {TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
-    author = {Hyeseong Kim, Geonhui Son, Deukhee Lee, Dosik Hwang},
-    booktitle = {CVPR},
-    year = {2026}
-}
-```` -->
-
 ````BibTeX
-@article{kim2026twings,
-  title={TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
-  author={Kim, Hyeseong and Son, Geonhui and Lee, Deukhee and Hwang, Dosik},
-  journal={arXiv preprint arXiv:2605.22069},
-  year={2026}
+@InProceedings{Kim_2026_CVPR,
+    author    = {Kim, Hyeseong and Son, Geonhui and Lee, Deukhee and Hwang, Dosik},
+    title     = {TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {26062-26071}
 }
 ````
 
